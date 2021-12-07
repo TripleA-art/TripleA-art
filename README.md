@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TripleA-art
+- 👋 Hi, I’m Htet Thu Aung
 - 👀 I’m interested in Artifical Intelligence.
 - 🌱 I’m currently learning ML, OpenCV, DeepLearning.
 
